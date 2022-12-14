@@ -1,3 +1,3 @@
-ListPrices= 10 11 3 2 ;
-ListWeights= 9 12 7 5 ;
+ListPrices= 2 11 10 3 ;
+ListWeights= 5 12 9 7 ;
 Capacity= 15 ;
